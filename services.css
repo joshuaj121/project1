@@ -1,0 +1,16 @@
+.total {
+  display: flex;
+  justify-content: space-around;
+}
+
+.exterior {
+  border: solid black;
+}
+
+.interior {
+  border: solid black;
+}
+
+.full {
+  border: solid black
+}
